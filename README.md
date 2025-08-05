@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nishu-qatech
 - 👀 I’m interested in qa automation Testing
 - 🌱 I’m currently learning AI & ML
-- 💞️ I’m looking to collaborate on with all Techiees
+- 💞️ I’m looking to collaborate with all Techiees
 - 📫 How to reach me ,connect with me Here 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
