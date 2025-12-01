@@ -1,4 +1,4 @@
-👋 ## Hello, I’m Nishu
+# 👋 Hello, I’m Nishu
 
 👀 **Passionate About**: QA Automation Testing and building reliable, scalable testing frameworks
 
