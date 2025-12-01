@@ -6,12 +6,8 @@
 
 🤝 **Open to Collaborations**: Always happy to connect with fellow tech enthusiasts, testers, and AI learners
 
-📫 **Reach Me At**: Connect with me here on GitHub or via LinkedIn / email (add your preferred link)
+📫 **Reach Me At**: Connect with me here on GitHub.
 
-😄 **Pronouns**: She/Her (optional—add only if you want)
+😄 **Pronouns**: She/Her
 
 ⚡ **Fun Fact**: I love breaking things… so they can be built back better!
-<!---
-nishu-qatech/nishu-qatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
